@@ -19,7 +19,7 @@ function normalizeUrl(url) {
     })
 }
 
-const DYNAMIC_WIDGET_ROUTE = "https://dynamic-widget-service-l72twop3ra-uc.a.run.app"
+const DYNAMIC_WIDGET_ROUTE = "https://easzuphjjv.us-east-1.awsapprunner.com"
 
 function myFunction() {
     var parent_url = window.location.href;

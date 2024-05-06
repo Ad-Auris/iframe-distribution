@@ -30,7 +30,7 @@ function getCanonicalUrl() {
 
 function myFunction() {
     const IFRAME_ID = "ad-auris-iframe";
-    const DYNAMIC_WIDGET_ROUTE = "https://dynamic-widget-service-l72twop3ra-uc.a.run.app"
+    const DYNAMIC_WIDGET_ROUTE = "https://easzuphjjv.us-east-1.awsapprunner.com"
 
     var canonicalUrl = getCanonicalUrl()
     if (!canonicalUrl) {

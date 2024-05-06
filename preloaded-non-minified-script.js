@@ -19,7 +19,7 @@ function normalizeUrl(url) {
 
 const IFRAME_ID = "ad-auris-iframe";
 const SCRIPT_ID = "ad-auris-script";
-const DYNAMIC_WIDGET_ROUTE = "https://dynamic-widget-service-l72twop3ra-uc.a.run.app"
+const DYNAMIC_WIDGET_ROUTE = "https://easzuphjjv.us-east-1.awsapprunner.com"
 
 function get_src_url() {
     return new Promise((resolve, reject) => {
