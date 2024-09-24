@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/npm/ad-auris-iframe-distribution/badge)](https://www.jsdelivr.com/package/npm/ad-auris-iframe-distribution)
+
 ## High level notes
 
 #### Non-minified
